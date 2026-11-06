@@ -11,13 +11,12 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR+NAME+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Anime+Enthusiast+%E2%9B%A9%EF%B8%8F;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Joseph+Ogbah+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Tech+Enthusiast+%E2%9B%A9%EF%B8%8F;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Joseph50079&color=ff69b4&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/Joseph50079?style=for-the-badge&logo=github&color=8A2BE2)](https://github.com/Joseph50079)
 
 <!-- Add your favorite anime GIF below (use a GIF URL from Giphy/Tenor or one you upload to your repo) -->
-<img src="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-Th3eeB7IsGCjo3HOSG" width="400" alt="anime banner" />
 
 <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="400" alt="anime banner" />
 
@@ -31,11 +30,11 @@ You can click the Preview link to take a look at your changes.
 |------|-------|
 | 🧙 **Class** | Software Engineer |
 | 🏢 **Guild** | Your Company / Freelance / Student |
-| 🌍 **Location** | Your City, Country |
-| 🔭 **Current Quest** | What you're building right now |
-| 🌱 **Training Arc** | What you're learning |
-| 💬 **Ask me about** | Your specialties (e.g., APIs, React, DevOps) |
-| ⚡ **Fun fact** | Your favorite anime or a quirky fact |
+| 🌍 **Location** | Abia State, Nigeria 🇳🇬|
+| 🔭 **Current Quest** | Social Marketplace 📦|
+| 🌱 **Training Arc** | AI engineering |
+| 💬 **Ask me about** | My Ideas 💡 |
+| ⚡ **Fun fact** | Innovation 🧑‍💻🔧🛠️⚙️|
 
 ---
 
@@ -93,11 +92,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 Featured Quests (Projects)
 
-| Project | Description | Tech |
+<!-- | Project | Description | Tech |
 |---------|-------------|------|
 | [**Project One**](https://github.com/YOUR_USERNAME/project-one) | One-line description of what it does | `Python` `FastAPI` |
 | [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | One-line description of what it does | `React` `TypeScript` |
 | [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | One-line description of what it does | `Go` `Docker` |
+-->
 
 Or auto-pin repos:
 
@@ -134,7 +134,7 @@ Or auto-pin repos:
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Joseph50079)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](uchennaogbah59@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_HANDLE)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/Joseph50079)
 
 <br/>
 
